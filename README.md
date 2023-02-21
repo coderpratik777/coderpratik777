@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @coderpratik777
-- 👀 I’m passionate about coding!!
+- 👋 Hi, I’m @coderpratik
 - 🤯 Java Full stack Developer.
+- 😎 I have knowledge in core java, hibernate,spring framework, spring boot,oracle sql.
+- 🧐 I also have knowledge in HTML,CSS,javascript ,React and Angular js.
 
 
 <!---
